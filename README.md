@@ -1,0 +1,2 @@
+# algorithm
+some row thinking (. ^ .)
